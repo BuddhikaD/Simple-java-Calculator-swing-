@@ -1,3 +1,3 @@
 # Simple-java-Calculator-swing-
 
-this is test cal
+this is test calculator
