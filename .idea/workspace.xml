@@ -4,7 +4,6 @@
     <list default="true" id="ac16089b-b688-4823-90cd-aabe79412de0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SampleGUI/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SampleGUI/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,7 @@
       <workItem from="1616316421813" duration="57000" />
       <workItem from="1618776522970" duration="84000" />
       <workItem from="1618777112882" duration="39000" />
+      <workItem from="1618938236700" duration="339000" />
     </task>
     <servers />
   </component>
